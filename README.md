@@ -16,6 +16,10 @@ Die Dateien stehen unter [Releases](../../releases/latest).
 
 Alle Beispieldaten (Fächer, Termine) sind erfundene Beispiele und zum Überschreiben gedacht.
 
+## Ältere Versionen
+
+Frühere Versionen bleiben unter [Releases](../../releases) verfügbar, zum Beispiel [Version 1.0](../../releases/tag/v1.0). Empfohlen ist immer die neueste Version: Neue Versionen haben mehr Funktionen und Fehlerbehebungen, ähnlich wie Updates bei Apps.
+
 ## Voraussetzungen
 
 Microsoft Excel 2019, Excel 2021/2024 oder Microsoft 365. Ältere Versionen und andere Programme (Google Tabellen, LibreOffice, Numbers) zeigen einzelne Funktionen nicht oder anders an.
