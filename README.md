@@ -9,6 +9,7 @@ Die Dateien stehen unter [Releases](../../releases/latest).
 | Datei | Für |
 |---|---|
 | `Studienplaner-Vorlage.xlsx` | Bachelor und Master in einer Datei, Auswahl auf der Startseite |
+| `Studienplaner-Dreiklang.xlsx` | Bachelor, Master und Diplomstudium in einer Datei, Auswahl auf der Startseite |
 | `Studienplaner-Vorlage-Bachelor.xlsx` | Bachelorstudium (6 Semester) |
 | `Studienplaner-Vorlage-Master.xlsx` | Masterstudium (4 Semester) |
 | `Studienplaner-Vorlage-Diplomstudium.xlsx` | Diplomstudium (8 Semester, zwei Studienabschnitte) |
